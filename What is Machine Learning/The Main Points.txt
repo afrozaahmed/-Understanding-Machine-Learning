@@ -1,0 +1,7 @@
+The main points are these, 
+
+first, machine learning lets us find patterns in existing data, 
+then create and use a model that recognizes those patterns in new data. Machine learning has gone mainstream. 
+Lots of organizations use it today in lots of different ways, although it raises ethical concerns. 
+
+The most important point, though, is this. It is that machine learning can probably help your organization.

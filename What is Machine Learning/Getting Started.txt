@@ -1,0 +1,16 @@
+What is Machine learning?
+
+There's probably no definition that the whole world would agree on, but there certainly are some core concepts. To think about those, think about what machine learning does. The core thing machine learning does is finds patterns in data. It then those patters to predict the future.
+
+Key points:-
+Finds patterns in data
+Uses those patterns to predict the future
+
+Examples:
+1) Detecting credit card fraud - you can use machine learning to detect credit card fraud. Suppose you have data about previous credit card transactions. You could find patterns in that data, potentially, that will let you detect when a new credit card transaction is likely to be fraudulent.
+
+2) Determining whether a customer is likely to switch to a competitor - You want to determine whether a customer is likely to switch to a competitor, Again, you could possible find patters in existing customer data that will help you do that.
+
+3) Deciding when to do preventive maintenance on a factory robot - You want to decide when it's time to do preventive maintenance on a factory robot. Once again, you can look at existing data. You can find patterns that predict when a robot is going to fail.
+
+Core idea is that machine learning lets you find patterns in data, then use those patterns to predict the future.
