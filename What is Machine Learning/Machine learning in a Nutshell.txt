@@ -1,0 +1,5 @@
+Machine learning in a Nutshell
+
+You start with data that contains patterns. You then feed that data into a machine learning algorithm, maybe more than one, that finds patterns in the data. This algorithm generates something called a model. A model is functionality, typically code, that's able to recognize patterns when presented with new data.
+
+Application can then use that model by supplying new data to see if this data matches known patterns such as supplying data about a new transaction. The model can return a probability of whether this transaction is fraudulent. It knows that because of the patterns. Machine learning is a nutshell.

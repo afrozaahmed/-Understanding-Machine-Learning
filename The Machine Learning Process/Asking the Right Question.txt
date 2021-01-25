@@ -1,0 +1,27 @@
+The first problem you face in the machine learning process is deciding what question to ask. 
+
+Asking the right question is really important. In fact, 
+it's fair to say that choosing what question to ask is the most important part of the process, 
+and the reason why this is true is probably obvious. 
+
+It's that if you ask the wrong question, you won't get the answer you care about. 
+Choosing what question to ask is really important. And then, you've got to ask yourself,
+ do you have the right data to answer this question? Maybe, 
+ 
+for example, the question you want to ask is how can I predict whether a credit card transaction is going to be fraudulent.
+Well, maybe it's the case that the most predicted piece of data for doing 
+this is whether the customer is a homeowner or a renter,
+or maybe it's how long they live at a current address. 
+You might not have this data, and you won't know this until some later point, 
+if ever. So you want to ask yourself, 
+do you think you have the right data to answer this question? Because if you don't, 
+you won't get an answer you like. 
+   
+You also want to ask yourself this, do you know how you'll measure success? 
+Because ultimately what you're going to get is a model that makes predictions.
+How good must those predictions be to make this entire process qualify as a success.
+    
+For example, for credit card transactions, 
+if you find that you're accurate about fraud prediction in say 8 out of 10 cases, 
+is that good enough? How about 6 out of 10? Do you demand 9 out of 10? How do you decide? 
+Knowing this up front is important because if you don't, you will never know when you're done.

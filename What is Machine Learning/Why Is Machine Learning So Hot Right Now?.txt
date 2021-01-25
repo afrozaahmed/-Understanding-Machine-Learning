@@ -1,0 +1,36 @@
+Why is machine learning so hot right now? Well, 
+
+there are several reasons. A big one is that doing machine learning well requires lots of data, which more and more we have. 
+We live in the big data era, right? It requires lots of compute power, which more and more we have. We live in the cloud era. 
+And it requires effective machine learning algorithms, which more and more we have because we have seen researchers spend years,
+decades, in this space learning what works. All of these things are now more available than ever, 
+and that's a big reason why machine learning is so hot today. Who's interested in machine learning? Well,
+you could think about three groups of people who care about this topic. The first is business leaders. 
+They want solutions to business problems, things I've described so far, fraudulent transactions, 
+deciding whether customers are going to switch or not, all these things. These are business problems. 
+Good solutions have real business value. 
+The other organizations do things faster, better, cheaper, and so business leaders really want those solutions. 
+This is a good thing because business leaders also have the money to pay for those solutions. 
+Very important. Software developers also care about this because they want to build better applications.
+And, as we saw, applications can rely on models created in VM machine learning to make better predictions. 
+   
+   
+If you're a software developer, machine learning can help you build smarter apps, 
+even if you're not the one who creates the models. You can just use the models. 
+   
+   
+And the third category of people who are really involved in this space are called data scientists who want powerful, 
+easy‑to‑use tools. An obvious question here. What is a data scientist? 
+
+The answer generally is it's someone who knows about three things, statistics, machine learning software, 
+and how to write code typically, and 
+ideally a problem domain, such as credit card transaction fraud or robot preventive maintenance or some other area.
+
+There are key things to know about data scientists First, 
+good ones are scarce. 
+Second, unsurprisingly, good ones are expensive. 
+And the reason is if you can solve important business problems with machine learning, you can save a lot of money. 
+There's real business value there. 
+
+And so good data scientists who know all three of these things, statistics, machine learning, and a problem domain, 
+can have enormous value. That's why right now they command substantial salaries and are often hard to keep in your employ.

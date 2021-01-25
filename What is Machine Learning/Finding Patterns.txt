@@ -1,0 +1,45 @@
+What does it mean to learn?
+For example, how did you learn to read?
+Learning requires:
+	-Identifying patterns
+Well, learning requires identifying patterns, In reading, for instance, you identify letters and then the patterns of letters together to form words. You then had to recognize those patterns when you saw them again. That's what learning means, just as when you learn to read.
+
+This is what machine learning does.
+
+For example
+
+Name	Amount	Fraudulent
+Smith	$2,600.45	No
+Potter	$2,294.58	Yes
+Peters	$1,003.30	Yes
+Adams	$8,488.32	No
+
+Suppose i have data about credit card transactions. Suppose i have only four records. Each one has three fields, the customer's name, the amount of the transaction and whether or not was fraudulent.
+What's the pattern that this data suggests for fraudulent transactions?
+
+If the name starts with P, they are a criminal. Well probably not. The problem with having so little data is that it's easy to find patters, but it's hard to find patterns that are correct, correct in the sence that they are predictive, they helps us understand whether a new transactions is likely to be fraudulent
+
+So suppose I have more data.
+
+Name	Amount		Where Issues	Where Used	Age		Fraudulent
+Smith	$2,600.45	USA				USA			22		No
+Potter	$2,294.58	USA				RUS			29		Yes
+Peters	$1,003.30	USA				RUS			25		Yes
+Adams	$8,488.32	FRA				USA			64		No
+Pali	$200.12		AUS				JAP			58		No
+Jones	$3,250.11	USA				RUS			43		No
+Hanford	$8,156.20	USA				RUS			27		Yes
+Marx	$7,475.11	UK				GER			32		No
+Norse	$540.00		USA				RUS			27		No
+Edson	$7,475.11	USA				RUS			20		Yes
+
+I have more records and i have more fields in each row one, now i know where the card was issued, where it was used, the age of the user.
+
+Now what's the pattern for fraudulent transactions?
+Well, it turns out that if you look at that, thee really is a pattern in this data. It is that a transaction is fradulent if the card holder is in their 20's, if the card is issued the USA and used in Russia, and the amount is more that $1000. You could have found that pattern, I bet, if you look at this data for a little while.
+
+But once again, do we know that pattern is truly predictive? 
+
+Again Probably Not. We don't have enough data. To do this well, you'd have enough data that people just can't find the pattern. Maybe use software. That's where a machine learning comes in.
+					
+
